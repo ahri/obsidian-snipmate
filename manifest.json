@@ -1,0 +1,11 @@
+{
+  "id": "snipmate",
+  "name": "SnipMate",
+  "version": "0.0.1",
+  "minAppVersion": "0.12.0",
+  "description": "A plugin for using JavaScript snippets from a central file in your vault.",
+  "author": "Adam Piper <adam@ahri.net>",
+  "authorUrl": "https://github.com/ahri`",
+  "helpUrl": "https://github.com/ahri/obsidian-snipmate/",
+  "isDesktopOnly": false
+}
